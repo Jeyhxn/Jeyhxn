@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeyhxn
-- 👀 I’m interested in game development by using c#.
+- 👀 I’m interested in game development.
 - 🌱 I’m currently learning c#
 - 📫 How to reach me, you can mail me
 - 😄 Pronouns: straight :D
